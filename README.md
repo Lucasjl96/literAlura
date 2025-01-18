@@ -1,3 +1,6 @@
+![badge literalura](https://github.com/user-attachments/assets/97c5dcb8-d54c-404c-8ef8-188480b021ee)
+
+
 # literAlura
 Bienvenidos a LiterAlura
 
